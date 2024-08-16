@@ -1,4 +1,3 @@
-//////////////////////////////////// Difficulty level is EASY \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 // #1. Two Sum
 // const twoSum = function(nums, target) {
 //     for (let i = 1; i < nums.length; i++) {
