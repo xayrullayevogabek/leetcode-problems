@@ -407,8 +407,8 @@
 // };
 
 // #27. Count of segments
-const countSegments = function (s) {
-  return s.match(/([^\s]+)/g)?.length ?? 0;
-};
+// const countSegments = function (s) {
+//   return s.match(/([^\s]+)/g)?.length ?? 0;
+// };
 
-countSegments("Hello, my name is John");
+// countSegments("Hello, my name is John");
