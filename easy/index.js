@@ -412,3 +412,8 @@
 // };
 
 // countSegments("Hello, my name is John");
+
+// #28. Divisior Game
+// const divisorGame = function (n) {
+//   return n % 2 === 0;
+// };
