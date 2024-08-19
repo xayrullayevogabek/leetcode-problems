@@ -406,3 +406,9 @@
 //   return up === down && left === right;
 // };
 
+// #27. Count of segments
+const countSegments = function (s) {
+  return s.match(/([^\s]+)/g)?.length ?? 0;
+};
+
+countSegments("Hello, my name is John");
